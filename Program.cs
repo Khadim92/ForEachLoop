@@ -14,6 +14,7 @@ namespace ForEachLoop
             foreach (var i in num)
             {
                 Console.WriteLine(i);
+
             }
         }
     }
